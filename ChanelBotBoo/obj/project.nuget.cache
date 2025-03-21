@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "5iydyb9kD+g=",
+  "dgSpecHash": "5gHFH8yGShA=",
   "success": true,
   "projectFilePath": "/home/leo/RiderProjects/ChanelBotBoo/ChanelBotBoo/ChanelBotBoo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/leo/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/leo/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/home/leo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/leo/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/home/leo/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "/home/leo/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/leo/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512",
+    "/home/leo/.nuget/packages/telegram.bot/22.5.0-dev.23/telegram.bot.22.5.0-dev.23.nupkg.sha512",
+    "/home/leo/.nuget/packages/vostok.logging.abstractions/1.0.33/vostok.logging.abstractions.1.0.33.nupkg.sha512",
+    "/home/leo/.nuget/packages/vostok.logging.console/1.0.11/vostok.logging.console.1.0.11.nupkg.sha512",
+    "/home/leo/.nuget/packages/vostok.logging.formatting/1.0.15/vostok.logging.formatting.1.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

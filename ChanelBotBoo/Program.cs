@@ -1,7 +1,19 @@
+using ChanelBotBoo.Models.Services.Telegram;
+using Telegram.Bot;
+using Telegram.Bot.Polling;
+using Vostok.Logging.Abstractions;
+using Vostok.Logging.Console;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSingleton<ILog, ConsoleLog>();
+builder.Services.AddSingleton<IUpdateHandler, UpdateHandler>();
+builder.Services.AddSingleton<ITelegramBotClient, TelegramBotClient>(provider =>
+    new TelegramBotClient("8137429708:AAHoNT-RAEbyGrWSgzAFbUgJCNPdRMrqHBY"));
+builder.Services.AddSingleton<IAsnwerService, RandomAnswerService>();
+builder.Services.AddHostedService<TgBot>();
 
 var app = builder.Build();
 

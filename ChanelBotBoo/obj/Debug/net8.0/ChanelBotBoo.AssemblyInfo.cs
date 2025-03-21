@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChanelBotBoo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b10fe26b6924bb291c5cea4130f0587ac06ca86b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45ec691db0ec45f4ba8d91e7110f1f6ac761b5bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChanelBotBoo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChanelBotBoo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
