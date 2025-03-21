@@ -1,4 +1,4 @@
-namespace ChanelBotBoo.Models.Services.Telegram;
+namespace ChanelBotBoo.Models.Services;
 
 public interface IAsnwerService
 {

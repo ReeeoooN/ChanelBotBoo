@@ -13,7 +13,7 @@ public class UpdateHandler (ILog logger, IAsnwerService answerService) : IUpdate
         switch (update.Type)
         {
             case UpdateType.Message:
-                if (update.Message.IsAutomaticForward)
+                if (update.Message.IsAutomaticForward || update.Message.ReplyToMessage.From.Id == botClient.BotId)
                 {
                     await botClient.SendMessage(
                         chatId: update.Message.Chat.Id,
