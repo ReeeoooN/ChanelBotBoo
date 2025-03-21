@@ -1,0 +1,6 @@
+﻿services:
+  chanelbotboo:
+    image: chanelbotboo
+    build:
+      context: .
+      dockerfile: Dockerfile
