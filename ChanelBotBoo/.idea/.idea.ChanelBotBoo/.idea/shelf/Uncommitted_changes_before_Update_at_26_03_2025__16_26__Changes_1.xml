@@ -1,0 +1,25 @@
+<changelist name="Uncommitted_changes_before_Update_at_26_03_2025,_16_26_[Changes]1" date="1742988372577" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.ChanelBotBoo/.idea/shelf/Uncommitted_changes_before_Update_at_26_03_2025,_16_26_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 26.03.2025, 16:26 [Changes]" />
+  <binary>
+    <option name="AFTER_PATH" value="../ChanelBotBooTests/obj/Debug/net8.0/ChanelBotBooTests.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.ChanelBotBoo/.idea/shelf/Uncommitted_changes_before_Update_at_26_03_2025,_16_26_[Changes]1/ChanelBotBooTests.assets.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="../ChanelBotBooTests/obj/Debug/net8.0/ChanelBotBooTests.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.ChanelBotBoo/.idea/shelf/Uncommitted_changes_before_Update_at_26_03_2025,_16_26_[Changes]1/ChanelBotBooTests.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="obj/Debug/net8.0/ChanelBotBoo.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="obj/Debug/net8.0/ChanelBotBoo.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.ChanelBotBoo/.idea/shelf/Uncommitted_changes_before_Update_at_26_03_2025,_16_26_[Changes]1/ChanelBotBoo.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="../ChanelBotBooTests/obj/Debug/net8.0/ChanelBotBooTests.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.ChanelBotBoo/.idea/shelf/Uncommitted_changes_before_Update_at_26_03_2025,_16_26_[Changes]1/ChanelBotBooTests.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="../ChanelBotBooTests/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.ChanelBotBoo/.idea/shelf/Uncommitted_changes_before_Update_at_26_03_2025,_16_26_[Changes]1/project.nuget.cache" />
+  </binary>
+</changelist>
